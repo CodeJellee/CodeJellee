@@ -26,4 +26,4 @@ When I'm not coding, you'll find me exploring and hiking in remote areas: gainin
 
 - 🌱 I’m currently learning Javascript, Python, React, Redux, PostgreSQL, Flask, Express
 - 📫 How to reach me **LeeJCode@gmail.com**
-- - ⚡ Fun fact: I have completed 4 half marathons and a full marathon. Looking forward to conquering more races in the future! Current goals: Berlin and Japan Marathon.
+- ⚡ Fun fact: I have completed 4 half marathons and a full marathon. Looking forward to conquering more races in the future! Current goals: Berlin and Japan Marathon.
